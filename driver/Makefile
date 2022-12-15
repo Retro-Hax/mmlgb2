@@ -1,5 +1,5 @@
 #CC=lcc
-CC=/home/simon/share/sdcc-3.8.0/bin/sdcc -mgbz80 --no-std-crt0 -I /home/simon/gbdk-n/include -I /home/simon/gbdk-n/include/asm
+CC=${GBDK_HOME}bin/sdcc -msm83 -D__PORT_sm83 --no-std-crt0 -I ${GBDK_HOME}include -I ${GBDK_HOME}include/asm
 
 default: ASMFILES
 
