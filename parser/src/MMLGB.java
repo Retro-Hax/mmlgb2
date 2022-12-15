@@ -1,4 +1,4 @@
-package dk.hisimon.mmlgb;
+package mmlgb2;
 
 import java.io.*;
 import java.nio.file.*;

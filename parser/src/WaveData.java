@@ -1,4 +1,4 @@
-package dk.hisimon.mmlgb;
+package mmlgb2;
 
 public class WaveData {
 	private int[] data;
