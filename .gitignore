@@ -1,3 +1,4 @@
 driver/*.asm
 driver/*o
 music/*.mml
+parser/*.jar

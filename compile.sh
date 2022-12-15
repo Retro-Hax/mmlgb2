@@ -1,6 +1,6 @@
 #/bin/sh
 
-java -jar parser/MMLGB.jar music/"$1" driver/song.asm
+./parser/build/mmlgb2 music/"$1" driver/song.asm
 
 ${GBDK_HOME}bin/lcc -c driver/player.asm -o driver/player.o
 ${GBDK_HOME}bin/lcc -c driver/music.asm -o driver/music.o
