@@ -1,13 +1,15 @@
 mmlgb2
 =====
 
+THIS PROJECT HAS BEEN DISCONTINUED
+
 NOTE: This is an UNOFFICIAL Continuation of SimonLarsens [mmlgb](https://github.com/SimonLarsen/mmlgb)
 
 A MML parser and GBDK sound driver for the Nintendo Game Boy.
 
 *In development . Most core functionality missing.*
 
-See [wiki](https://gitea.retro-hax.net/Retro-Hax/mmlgb2/wiki) for instructions.
+See [wiki](https://github.com/SimonLarsen/mmlgb/wiki) for instructions.
 
 # Compilation
 1. Setup [GBDK](https://github.com/gbdk-2020/gbdk-2020)
